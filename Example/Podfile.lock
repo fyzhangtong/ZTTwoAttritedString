@@ -1,0 +1,16 @@
+PODS:
+  - ZTTwoAttritedString (0.1.0)
+
+DEPENDENCIES:
+  - ZTTwoAttritedString (from `../`)
+
+EXTERNAL SOURCES:
+  ZTTwoAttritedString:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZTTwoAttritedString: a326e98087e1ba44c47a91f476ccba3bf5b4e14c
+
+PODFILE CHECKSUM: 9c8dde505193d6d559610b48be6538638f1b0bd2
+
+COCOAPODS: 1.10.1

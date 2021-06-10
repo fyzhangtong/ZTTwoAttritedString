@@ -1,0 +1,6 @@
+framework module ZTTwoAttritedString {
+  umbrella header "ZTTwoAttritedString-umbrella.h"
+
+  export *
+  module * { export * }
+}
